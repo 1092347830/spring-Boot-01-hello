@@ -21,6 +21,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @date 2020/2/29 20 53:29
  * @description
  */
+// hi github i'm idea
 @SpringBootApplication
 public class HelloMainApplication {
     public static void main(String[] args) {
